@@ -1,0 +1,29 @@
+{
+  "name": "nodgame",
+  "version": "0.1.0",
+  "description": "Node.js Game Development",
+  "main": "nodgame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TpatukDev/nodgame.git"
+  },
+  "keywords": [
+    "api",
+    "game",
+    "node",
+    "image",
+    "gune",
+    "fx",
+    "beta",
+    "dev"
+  ],
+  "author": "TpatukDev",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/TpatukDev/nodgame/issues"
+  },
+  "homepage": "https://github.com/TpatukDev/nodgame#readme"
+}
